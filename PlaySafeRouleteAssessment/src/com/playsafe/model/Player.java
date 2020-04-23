@@ -1,7 +1,6 @@
 package com.playsafe.model;
 
 public class Player {
-	
 	private String name  ;
 	private int bet ;
 	private String outcone;
@@ -39,4 +38,5 @@ public class Player {
 	public void setWinnings(int winnings) {
 		this.winnings = winnings;
 	}
+
 }
